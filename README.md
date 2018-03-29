@@ -1,2 +1,2 @@
 # helloword
-deneme
+Merhaba Dünya
